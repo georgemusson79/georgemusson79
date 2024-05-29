@@ -1,4 +1,4 @@
-##Yee Haw
+## Yee Haw
 
 <!--
 **georgemusson79/georgemusson79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<figure><embed src="https://wakatime.com/share/@79b30253-c230-42da-b974-0ddd5b4b1a35/3ddd9313-78ef-4e11-8a21-dc310ceddb97.svg"></embed></figure>
+<img src="https://wakatime.com/share/@79b30253-c230-42da-b974-0ddd5b4b1a35/3ddd9313-78ef-4e11-8a21-dc310ceddb97.svg">
