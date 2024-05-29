@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://wakatime.com/share/@79b30253-c230-42da-b974-0ddd5b4b1a35/94dbd64b-340e-4369-bc25-e0af7d89711d.svg">
-<embed src="https://wakatime.com/share/@79b30253-c230-42da-b974-0ddd5b4b1a35/f79d14ff-ec1a-4391-b1d0-a3e70fe00e64.svg"></embed>
 <img src="https://wakatime.com/share/@79b30253-c230-42da-b974-0ddd5b4b1a35/c925d827-a111-4ed0-9ab1-6f8100fe763d.svg">
